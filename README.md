@@ -10,3 +10,4 @@ https://pypi.org/project/doxieapi/
 
 This Python script allows the users to download scans quicker.
 Also, once the python script starts, every 100 seconds, it will check whether there are any new scans.
+It will check for 3 times. If all three times do not have scans, it will terminate.
